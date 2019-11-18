@@ -1,0 +1,4 @@
+21:02:21.1081571 Error: User doesn't exist
+21:04:03.8543425 Error: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: IsMailFilled; Main] User doesn't exist
+21:09:44.8552294 Error: [Called class:ItAcademyProject.DAL.DBDAL Frames: OpenConnection; IsCustomerExist; IsMailFilled; Main] При установлении соединения с SQL Server произошла ошибка, связанная с сетью или с определенным экземпляром. Сервер не найден или недоступен. Убедитесь, что имя экземпляра указано правильно и что на SQL Server разрешены удаленные соединения. (provider: TCP Provider, error: 0 - Удаленный компьютер отклонил это сетевое подключение.)
+23:24:13.1474508 Error: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: IsMailFilled; Main] No such customer.

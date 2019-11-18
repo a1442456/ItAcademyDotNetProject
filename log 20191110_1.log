@@ -1,0 +1,9 @@
+19:27:54.3695601 Error: [Called class:ItAcademyProject.DAL.DBDAL Frames: OpenConnection; IsCustomerExist; Main] Login failed for user 'sa'.
+20:15:03.5010807 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: GetID; .ctor; Main] Trying to get ID of unexisted customer in DB. New customer has been added to DB.
+20:15:38.9008070 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: GetID; .ctor; .ctor; Main] Trying to get ID of unexisted customer in DB. New customer has been added to DB.
+20:20:15.8145018 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: GetID; .ctor; Main] Trying to get ID of inexistent customer:Anton Bottomss in DB. New customer will be add to DB.
+20:20:15.8185045 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: GetID; .ctor; Main] New customer has been successfully added to DB.
+20:26:11.8892657 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: GetID; .ctor; Main] Trying to get ID of inexistent customer:Kolya Babina in DB. New customer will be add to DB.
+20:26:11.8939038 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: GetID; .ctor; Main] New customer has been successfully added to DB.
+20:27:35.0520630 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: GetID; .ctor; Main] Trying to get ID of inexistent customer:qwe dsa in DB. New customer will be add to DB.
+20:27:35.0560659 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: GetID; .ctor; Main] qwe dsa has been successfully added to DB.

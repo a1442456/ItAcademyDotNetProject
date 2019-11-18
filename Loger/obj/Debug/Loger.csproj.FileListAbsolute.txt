@@ -1,0 +1,13 @@
+C:\ItAcademyHomeWorks\HomeWorkSolution\Loger\bin\Debug\Loger.exe.config
+C:\ItAcademyHomeWorks\HomeWorkSolution\Loger\bin\Debug\Loger.exe
+C:\ItAcademyHomeWorks\HomeWorkSolution\Loger\bin\Debug\Loger.pdb
+C:\ItAcademyHomeWorks\HomeWorkSolution\Loger\obj\Debug\Loger.csprojAssemblyReference.cache
+C:\ItAcademyHomeWorks\HomeWorkSolution\Loger\obj\Debug\Loger.csproj.CoreCompileInputs.cache
+C:\ItAcademyHomeWorks\HomeWorkSolution\Loger\obj\Debug\Loger.exe
+C:\ItAcademyHomeWorks\HomeWorkSolution\Loger\obj\Debug\Loger.pdb
+C:\ItAcademyProject\ItAcademyProject\Loger\bin\Debug\Loger.exe.config
+C:\ItAcademyProject\ItAcademyProject\Loger\bin\Debug\Loger.exe
+C:\ItAcademyProject\ItAcademyProject\Loger\bin\Debug\Loger.pdb
+C:\ItAcademyProject\ItAcademyProject\Loger\obj\Debug\Loger.csprojAssemblyReference.cache
+C:\ItAcademyProject\ItAcademyProject\Loger\obj\Debug\Loger.exe
+C:\ItAcademyProject\ItAcademyProject\Loger\obj\Debug\Loger.pdb

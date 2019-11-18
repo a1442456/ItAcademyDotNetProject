@@ -1,0 +1,22 @@
+01:48:32.9349778 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:Joil Me in DB. New customer will be add to DB.
+01:48:32.9399811 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Joil Me has been successfully added to DB.
+02:28:04.8609604 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:Krasnikov Anton in DB. New customer will be add to DB.
+02:28:04.8649631 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Krasnikov Anton has been successfully added to DB.
+03:18:12.9655372 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:Anton qwe in DB. New customer will be add to DB.
+03:18:12.9705403 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Anton qwe has been successfully added to DB.
+05:46:57.5740343 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:Vadim Popko in DB. New customer will be add to DB.
+05:46:57.5780373 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Vadim Popko has been successfully added to DB.
+10:49:02.9625412 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:Vera Beliyasova in DB. New customer will be add to DB.
+10:49:02.9625412 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Vera Beliyasova has been successfully added to DB.
+10:53:28.4528829 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:John Popov in DB. New customer will be add to DB.
+10:53:53.6244504 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] John Popov has been successfully added to DB.
+10:56:59.2240208 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:Anton Pilon in DB. New customer will be add to DB.
+10:57:02.3663429 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Anton Pilon has been successfully added to DB.
+10:58:44.7908521 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:Anton Pilotkin in DB. New customer will be add to DB.
+10:58:47.3783189 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Anton Pilotkin has been successfully added to DB.
+11:01:26.4388829 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:Anthony Morozik in DB. New customer will be add to DB.
+11:01:30.7532074 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Anthony Morozik has been successfully added to DB.
+11:02:26.6816810 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:Pol Eweq in DB. New customer will be add to DB.
+11:02:29.1931197 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Pol Eweq has been successfully added to DB.
+11:03:52.8345573 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Trying to get ID of inexistent customer:Loker Eqwes in DB. New customer will be add to DB.
+11:03:52.8345573 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; GetInfoAboutCustomer; Work; Main] Loker Eqwes has been successfully added to DB.

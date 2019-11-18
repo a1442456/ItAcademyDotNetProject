@@ -1,0 +1,20 @@
+C:\ItAcademyProject\ItAcademyProject\ItAcademyProject\bin\Debug\ItAcademyProject.exe.config
+C:\ItAcademyProject\ItAcademyProject\ItAcademyProject\bin\Debug\ItAcademyProject.exe
+C:\ItAcademyProject\ItAcademyProject\ItAcademyProject\bin\Debug\ItAcademyProject.pdb
+C:\ItAcademyProject\ItAcademyProject\ItAcademyProject\bin\Debug\Loger.exe
+C:\ItAcademyProject\ItAcademyProject\ItAcademyProject\bin\Debug\Loger.pdb
+C:\ItAcademyProject\ItAcademyProject\ItAcademyProject\bin\Debug\Loger.exe.config
+C:\ItAcademyProject\ItAcademyProject\ItAcademyProject\obj\Debug\ItAcademyProject.csprojAssemblyReference.cache
+C:\ItAcademyProject\ItAcademyProject\ItAcademyProject\obj\Debug\ItAcademyProject.csproj.CopyComplete
+C:\ItAcademyProject\ItAcademyProject\ItAcademyProject\obj\Debug\ItAcademyProject.exe
+C:\ItAcademyProject\ItAcademyProject\ItAcademyProject\obj\Debug\ItAcademyProject.pdb
+C:\ItAcademyProject — копия (4)\ItAcademyProject\ItAcademyProject\bin\Debug\ItAcademyProject.exe.config
+C:\ItAcademyProject — копия (4)\ItAcademyProject\ItAcademyProject\bin\Debug\ItAcademyProject.exe
+C:\ItAcademyProject — копия (4)\ItAcademyProject\ItAcademyProject\bin\Debug\ItAcademyProject.pdb
+C:\ItAcademyProject — копия (4)\ItAcademyProject\ItAcademyProject\bin\Debug\Loger.exe
+C:\ItAcademyProject — копия (4)\ItAcademyProject\ItAcademyProject\bin\Debug\Loger.pdb
+C:\ItAcademyProject — копия (4)\ItAcademyProject\ItAcademyProject\bin\Debug\Loger.exe.config
+C:\ItAcademyProject — копия (4)\ItAcademyProject\ItAcademyProject\obj\Debug\ItAcademyProject.csprojAssemblyReference.cache
+C:\ItAcademyProject — копия (4)\ItAcademyProject\ItAcademyProject\obj\Debug\ItAcademyProject.csproj.CopyComplete
+C:\ItAcademyProject — копия (4)\ItAcademyProject\ItAcademyProject\obj\Debug\ItAcademyProject.exe
+C:\ItAcademyProject — копия (4)\ItAcademyProject\ItAcademyProject\obj\Debug\ItAcademyProject.pdb

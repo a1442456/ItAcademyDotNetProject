@@ -1,0 +1,2 @@
+22:24:41.2897893 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; .ctor; Work; Main] Trying to get ID of inexistent customer:qwe qwe in DB. New customer will be add to DB.
+22:24:41.2957547 Debug: [Called class:ItAcademyProject.DAL.CustomersDAL Frames: TryGetID; .ctor; Work; Main] qwe qwe has been successfully added to DB.

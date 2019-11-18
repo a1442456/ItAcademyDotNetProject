@@ -1,0 +1,25 @@
+﻿19:01:28.7248093 Info: Frames[SomeJobItAcademyProject.Class1;Main] 
+19:02:03.8072232 Info: Frames[ItAcademyProject.Class1SomeJob;Main] 
+19:02:38.1525322 Info: Frames[ItAcademyProject.Class1--SomeJob;Main] 
+19:04:02.5121789 Info: Called class:ItAcademyProject.Class1 in frames SomeJob;Main] 
+19:05:00.7930666 Info: Called class:ItAcademyProject.Class1 frames: SomeJob;Main] 
+19:32:23.4795647 Info: Called class:ItAcademyProject.Program frames: PrintArray; Main] Printing array
+19:32:23.4795647 Info: Called class:ItAcademyProject.Program frames: PrintArray; Main] Printing array
+19:32:23.4795647 Info: Called class:ItAcademyProject.Program frames: PrintArray; Main] Printing array
+19:32:23.4795647 Info: Called class:ItAcademyProject.Program frames: PrintArray; Main] Printing array
+19:32:23.4795647 Info: Called class:ItAcademyProject.Program frames: PrintArray; Main] Printing array
+19:32:23.4951890 Info: Called class:ItAcademyProject.Program frames: PrintArray; Main] Printing array
+19:32:23.4951890 Info: Called class:ItAcademyProject.Program frames: PrintArray; Main] Printing array
+19:32:23.4951890 Info: Called class:ItAcademyProject.Program frames: PrintArray; Main] Printing array
+19:32:23.4951890 Info: Called class:ItAcademyProject.Program frames: PrintArray; Main] Printing array
+19:32:23.4951890 Info: Called class:ItAcademyProject.Program frames: PrintArray; Main] Printing array
+19:33:10.4436424 Info: [Called class:ItAcademyProject.Program Frames: PrintArray; Main] Printing array
+19:33:10.4436424 Info: [Called class:ItAcademyProject.Program Frames: PrintArray; Main] Printing array
+19:33:10.4436424 Info: [Called class:ItAcademyProject.Program Frames: PrintArray; Main] Printing array
+19:33:10.4436424 Info: [Called class:ItAcademyProject.Program Frames: PrintArray; Main] Printing array
+19:33:10.4436424 Info: [Called class:ItAcademyProject.Program Frames: PrintArray; Main] Printing array
+19:33:10.4436424 Info: [Called class:ItAcademyProject.Program Frames: PrintArray; Main] Printing array
+19:33:10.4436424 Info: [Called class:ItAcademyProject.Program Frames: PrintArray; Main] Printing array
+19:33:10.4436424 Info: [Called class:ItAcademyProject.Program Frames: PrintArray; Main] Printing array
+19:33:10.4436424 Info: [Called class:ItAcademyProject.Program Frames: PrintArray; Main] Printing array
+19:33:10.4592682 Info: [Called class:ItAcademyProject.Program Frames: PrintArray; Main] Printing array
